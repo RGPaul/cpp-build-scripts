@@ -1,0 +1,6 @@
+[submodule "Scripts/Boost/Apple"]
+	path = Scripts/Boost/Apple
+	url = git@github.com:RGPaul/Apple-Boost-BuildScript.git
+[submodule "Scripts/Boost/Android"]
+	path = Scripts/Boost/Android
+	url = git@github.com:RGPaul/Boost-for-Android.git
